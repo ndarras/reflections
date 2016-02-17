@@ -1,5 +1,11 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+Staging offers the oportunity to select which fille to include in the commit. This allows full control on the setup of the application. 
+
 How can you use the staging area to make sure you have one commit per logical change?
 
+By manualy send commit commands in logicaly and frquently intervals.
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches that have been commited have their history included. 

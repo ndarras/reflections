@@ -1,6 +1,6 @@
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-I can easyly track changes and revert to older versions.
+I can easyly track changes and revert to older versions safely.
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
@@ -8,5 +8,8 @@ The version stored are working versions and have a functional difference which m
 
 How can you use the commands git log and git diff to view the history of files?
 
+By using th commit id I can compare any version and find the differences between the files.
 
 How might using version control make you more confident to make changes that could break something?
+
+By starting a branch version I am confident that the master version will not be broken after the testing.
